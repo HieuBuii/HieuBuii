@@ -5,17 +5,18 @@ I am a web developer with over a year of experience. My journey involves delving
 ![HieuBuii's Stats](https://github-readme-stats.vercel.app/api?username=HieuBuii&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
-- 🌐 Front-End Web Developer at [EMSO Viet Nam .JSC](https://easyedu.vn/).
+- 🌐 Fullstack Web Developer at [CÔNG TY TNHH GIẢI PHÁP LINH HOẠT XIPAT]([https://easyedu.vn/](https://xipat.com/).
+- 🌐 Front-End Web Developer at [EMSO Viet Nam .JSC](https://easyedu.vn/)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,tailwind,materialui,nodejs,express,mongo,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nestjs,redux,tailwind,materialui,nodejs,express,mongo,mysql,docker)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
 - 🚀 Learning Full Stack Web Development
   - Exploring the ins and outs of React and technologies for dynamic front-end experiences.
   - Styling with Tailwind CSS, MUI,... to create modern and responsive user interfaces.
-  - Building server using NodeJs and Express framework.
+  - Building server using NestJs, NodeJs and Express framework.
   - Diving into MySQL, MongoDB for efficient and scalable database management.
 
  ## 🏆 Achievements
