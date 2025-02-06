@@ -1,6 +1,6 @@
 # Hi, I'm Bui Trung Hieu! 👋
 
-I am a web developer with over a year of experience. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a web developer with over 2 years of experience. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 ![HieuBuii's Stats](https://github-readme-stats.vercel.app/api?username=HieuBuii&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
