@@ -5,7 +5,7 @@ I am a web developer with over 2 years of experience. My journey involves delvin
 ![HieuBuii's Stats](https://github-readme-stats.vercel.app/api?username=HieuBuii&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
-- 🌐 Fullstack Web Developer at [CÔNG TY TNHH GIẢI PHÁP LINH HOẠT XIPAT]([https://easyedu.vn/](https://xipat.com/).
+- 🌐 Fullstack Web Developer at [CÔNG TY TNHH GIẢI PHÁP LINH HOẠT XIPAT](https://xipat.com/).
 - 🌐 Front-End Web Developer at [EMSO Viet Nam .JSC](https://easyedu.vn/)
 
 ## Tech Stack
