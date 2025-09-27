@@ -22,7 +22,7 @@ I am a web developer with over 2 years of experience. My journey involves delvin
  ## 🏆 Achievements
 
 - 🌟 Has a degree in Electronic - Telecommunication Engineering from Post And Telecommunications Institute Of Technology (PTIT).
-- 🌟 Has a degree in UI/UX from ([ColorMe](https://colorme.vn/digitalcertificate/139594))
+- 🌟 Has a [degree](https://colorme.vn/digitalcertificate/139594) in UI/UX from ColorMe.
 - 🌟 TOEIC - 645.
 
 
